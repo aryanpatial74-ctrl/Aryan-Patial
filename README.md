@@ -1,2 +1,3 @@
 # Aryan-Patial
-project based on a library 
+**Project based on working of a library** 
+## Features
